@@ -1,2 +1,2 @@
 # choice-game
-Fiz um curto jogo de escolhas com 4 finais e um final secreto em python
+I coded a short choice game in python with 4 endings and one secret ending
